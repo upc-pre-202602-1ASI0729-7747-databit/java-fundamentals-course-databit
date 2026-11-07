@@ -95,14 +95,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 7: Proyecto: un programa con POO (10 minutos)
 
 - **Descripción**: Junta clases, encapsulación, arrays, `Scanner` y bucles para crear un reproductor de música que funciona en la consola.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L7)
+- **Enlace**: [Ver la lección](https://youtu.be/Q9BxaGhTSLY)
 - **Conceptos clave**:
   - Antes de escribir código se planifica: cada clase se ocupa de lo suyo.
   - `Reproductor` protege sus datos con `private` y solo los cambia con sus métodos.
   - El residuo `%` hace que la lista de canciones dé la vuelta sin usar un `if`.
   - `Scanner` lee la opción del usuario y `while` repite el menú hasta que elige salir.
   - Leer los errores y usar `println` ayuda a encontrar problemas.
-- **Proyecto final**: [Crea tu reproductor](PEGAR_JDOODLE_L7) 👉 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu reproductor](https://www.jdoodle.com/ga/rk2h-9mqr-dc2g) 👉 **¡Guarda y comparte!**
 
 ---
 
