@@ -1,6 +1,7 @@
 public class MyClass {
     public static void main(String[] args) {
         int vidas = 3;
+        
         while (vidas > 0) {
             System.out.println("Vidas: " + vidas);
             vidas--;
