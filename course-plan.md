@@ -24,7 +24,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Programar es dar instrucciones en orden.
   - Java es un lenguaje para crear aplicaciones y juegos.
   - `System.out.println` muestra un mensaje en pantalla.
-- **Práctica**: [Clic para programar](PEGAR_JDOODLE_L1) 👉 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👉 **¡No necesitas registrarte!**
 
 ---
 
@@ -126,7 +126,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Lección | Actividad | Empezar a programar |
 |---------|-----------|---------------------|
-| 1 | Tu primer mensaje | [JDoodle](PEGAR_JDOODLE_L1) |
+| 1 | Tu primer mensaje | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 2 | Variables y operadores | [JDoodle](PEGAR_JDOODLE_L2) |
 | 3 | Decisiones y bucles | [JDoodle](PEGAR_JDOODLE_L3) |
 | 4 | Métodos y Scanner | [JDoodle](PEGAR_JDOODLE_L4) |
@@ -154,11 +154,10 @@ NRC 7747
 **Líder del equipo**: PEGAR_LIDER  
 **Integrantes del equipo**:
 
-- Higa Kohatsu, Alonso Enrique (U202416276)
-- Asmat Alminco, Martin Alejandro (U202416272)
+- Gallardo Morales, Carla Alejandra(U202414970)
 - Huaman Oscco, Aldo Jesus (U20231h067)
+- 
 - Ortiz Laura, Leyla Alisson (U202415088)
-- Tuesta Girón, Kiara Lucia (U20251i477)
+- 
 
 **Fecha de entrega**: PEGAR_FECHA
-`````
