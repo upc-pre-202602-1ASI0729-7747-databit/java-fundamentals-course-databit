@@ -1,7 +1,6 @@
 class Reproductor {
-    // PASO 1: Declara los atributos 'cancion' y 'volumen' como privados (private)
-    String cancion;
-    int volumen;
+    private String cancion;
+    private int volumen;
 
     Reproductor(String cancion) {
         this.cancion = cancion;
@@ -17,8 +16,8 @@ public class Main {
     public static void main(String[] args) {
         Reproductor rep = new Reproductor("Canción 1");
         rep.reproducir();
-
-        // PASO 2: Intenta acceder directamente a rep.volumen desde fuera de la clase y observa el error
-        // rep.volumen;
+        
+        // Al estar encapsulado como private, este acceso directo genera un error de compilación:
+        // rep.volumen = 500; 
     }
 }
