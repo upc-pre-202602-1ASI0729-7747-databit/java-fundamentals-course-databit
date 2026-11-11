@@ -82,13 +82,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 6: Arrays y cadenas (5 minutos)
 
 - **Descripción**: Guarda listas de datos en arrays y trabaja con textos, integrándolos con tus objetos.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L6)
+- **Enlace**: [Ver la lección](https://youtu.be/-sT_iQ4URYg)
 - **Conceptos clave**:
   - Un array guarda varios valores del mismo tipo.
   - Las posiciones de un array empiezan en 0.
   - `length` indica cuántos elementos tiene un array.
   - `String` ofrece métodos para trabajar con textos.
-- **Práctica**: [Clic para programar](PEGAR_JDOODLE_L6) 👉 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👉 **¡Inicio inmediato!**
 
 ---
 
@@ -131,7 +131,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 3 | Decisiones y bucles | [JDoodle](PEGAR_JDOODLE_L3) |
 | 4 | Métodos y Scanner | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 5 | Clases y encapsulación | [JDoodle](PEGAR_JDOODLE_L5) |
-| 6 | Arrays y cadenas | [JDoodle](PEGAR_JDOODLE_L6) |
+| 6 | Arrays y cadenas | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 7 | Tu reproductor de música | [JDoodle](PEGAR_JDOODLE_L7) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](PEGAR_FORM_CUESTIONARIO)
