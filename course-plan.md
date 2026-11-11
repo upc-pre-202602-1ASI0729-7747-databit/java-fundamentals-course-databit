@@ -53,16 +53,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 4: Métodos, entrada y salida (5 minutos)
+### Lección 4: Métodos, entrada y salida (10 minutos)
 
 - **Descripción**: Organiza tu código en métodos reutilizables y lee lo que escribe el usuario con `Scanner`.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L4)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=TUGZZ35tD1o)
 - **Conceptos clave**:
   - Un método agrupa instrucciones que puedes reutilizar.
   - Los parámetros envían datos a un método.
   - `return` devuelve un resultado.
   - `Scanner` lee lo que el usuario escribe con el teclado.
-- **Práctica**: [Clic para programar](PEGAR_JDOODLE_L4) 👉 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👉 **¡Inicio inmediato!**
 
 ---
 
@@ -129,7 +129,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 1 | Tu primer mensaje | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 2 | Variables y operadores | [JDoodle](PEGAR_JDOODLE_L2) |
 | 3 | Decisiones y bucles | [JDoodle](PEGAR_JDOODLE_L3) |
-| 4 | Métodos y Scanner | [JDoodle](PEGAR_JDOODLE_L4) |
+| 4 | Métodos y Scanner | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 5 | Clases y encapsulación | [JDoodle](PEGAR_JDOODLE_L5) |
 | 6 | Arrays y cadenas | [JDoodle](PEGAR_JDOODLE_L6) |
 | 7 | Tu reproductor de música | [JDoodle](PEGAR_JDOODLE_L7) |
@@ -156,7 +156,7 @@ NRC 7747
 
 - Gallardo Morales, Carla Alejandra(U202414970)
 - Huaman Oscco, Aldo Jesus (U20231h067)
-- 
+- Miranda Cordova ,Jesus Angel Yvan(U202411261)
 - Ortiz Laura, Leyla Alisson (U202415088)
 - 
 
