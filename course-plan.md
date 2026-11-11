@@ -109,13 +109,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 8: Consejos y próximos pasos (5 minutos)
 
 - **Descripción**: Conoce los errores comunes, las buenas prácticas y qué puedes aprender después.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L8)
+- **Enlace**: [Ver la lección](https://youtu.be/RK4klLC3F98)
 - **Conceptos clave**:
   - Lee los mensajes de error: indican en qué línea está el problema.
   - Usa nombres claros y una sangría ordenada.
   - Prueba tu programa después de cada cambio.
   - Sigue aprendiendo con la [documentación oficial de Java](https://dev.java/learn/).
-- **Comparte tu trabajo**: [Envía tu creación](PEGAR_FORM_CREACION)
+
 
 ---
 
