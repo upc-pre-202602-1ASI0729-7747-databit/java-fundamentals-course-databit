@@ -69,13 +69,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 5: Clases, objetos y encapsulación (10 minutos)
 
 - **Descripción**: Entra a la Programación Orientada a Objetos creando tu primera clase `Reproductor` con atributos, constructor y métodos.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L5)
+- **Enlace**: [Ver la lección](https://youtu.be/K0JTfsVm-wU)
 - **Conceptos clave**:
   - Una clase es un molde y un objeto se crea a partir de ella con `new`.
   - El constructor prepara el objeto al crearlo.
   - `private` protege los atributos de una clase.
   - Los getters y setters leen y cambian esos atributos con reglas.
-- **Práctica**: [Clic para programar](PEGAR_JDOODLE_L5) 👉 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👉 **¡No necesitas registrarte!**
 
 ---
 
@@ -130,7 +130,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 2 | Variables y operadores | [JDoodle](PEGAR_JDOODLE_L2) |
 | 3 | Decisiones y bucles | [JDoodle](PEGAR_JDOODLE_L3) |
 | 4 | Métodos y Scanner | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
-| 5 | Clases y encapsulación | [JDoodle](PEGAR_JDOODLE_L5) |
+| 5 | Clases y encapsulación | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 6 | Arrays y cadenas | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 7 | Tu reproductor de música | [JDoodle](PEGAR_JDOODLE_L7) |
 
