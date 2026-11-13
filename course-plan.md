@@ -24,20 +24,20 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Programar es dar instrucciones en orden.
   - Java es un lenguaje para crear aplicaciones y juegos.
   - `System.out.println` muestra un mensaje en pantalla.
-- **Práctica**: [Clic para programar](PEGAR_JDOODLE_L1) 👉 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👉 **¡No necesitas registrarte!**
 
 ---
 
-### Lección 2: Variables, tipos de datos y operadores (10 minutos)
+### Lección 2: Variables, tipos de datos y operadores (8 minutos)
 
 - **Descripción**: Aprende a guardar datos en variables y a hacer operaciones con ellos.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L2)
+- **Enlace**: [Ver la lección](https://youtu.be/rqNQ92gu3Rs)
 - **Conceptos clave**:
   - Una variable guarda un dato con un nombre.
   - Los tipos más usados son `int`, `double`, `boolean` y `String`.
   - Los operadores `+`, `-`, `*` y `/` hacen cálculos.
   - El operador `%` devuelve el residuo de una división.
-- **Práctica**: [Clic para programar](PEGAR_JDOODLE_L2) 👉 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👉 **¡Inicio inmediato!**
 
 ---
 
@@ -53,16 +53,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 4: Métodos, entrada y salida (5 minutos)
+### Lección 4: Métodos, entrada y salida (10 minutos)
 
 - **Descripción**: Organiza tu código en métodos reutilizables y lee lo que escribe el usuario con `Scanner`.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L4)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=TUGZZ35tD1o)
 - **Conceptos clave**:
   - Un método agrupa instrucciones que puedes reutilizar.
   - Los parámetros envían datos a un método.
   - `return` devuelve un resultado.
   - `Scanner` lee lo que el usuario escribe con el teclado.
-- **Práctica**: [Clic para programar](PEGAR_JDOODLE_L4) 👉 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👉 **¡Inicio inmediato!**
 
 ---
 
@@ -82,13 +82,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 6: Arrays y cadenas (5 minutos)
 
 - **Descripción**: Guarda listas de datos en arrays y trabaja con textos, integrándolos con tus objetos.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L6)
+- **Enlace**: [Ver la lección](https://youtu.be/-sT_iQ4URYg)
 - **Conceptos clave**:
   - Un array guarda varios valores del mismo tipo.
   - Las posiciones de un array empiezan en 0.
   - `length` indica cuántos elementos tiene un array.
   - `String` ofrece métodos para trabajar con textos.
-- **Práctica**: [Clic para programar](PEGAR_JDOODLE_L6) 👉 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👉 **¡Inicio inmediato!**
 
 ---
 
@@ -109,13 +109,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 8: Consejos y próximos pasos (5 minutos)
 
 - **Descripción**: Conoce los errores comunes, las buenas prácticas y qué puedes aprender después.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L8)
+- **Enlace**: [Ver la lección](https://youtu.be/RK4klLC3F98)
 - **Conceptos clave**:
   - Lee los mensajes de error: indican en qué línea está el problema.
   - Usa nombres claros y una sangría ordenada.
   - Prueba tu programa después de cada cambio.
   - Sigue aprendiendo con la [documentación oficial de Java](https://dev.java/learn/).
-- **Comparte tu trabajo**: [Envía tu creación](PEGAR_FORM_CREACION)
+
 
 ---
 
@@ -126,12 +126,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Lección | Actividad | Empezar a programar |
 |---------|-----------|---------------------|
-| 1 | Tu primer mensaje | [JDoodle](PEGAR_JDOODLE_L1) |
+| 1 | Tu primer mensaje | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 2 | Variables y operadores | [JDoodle](PEGAR_JDOODLE_L2) |
 | 3 | Decisiones y bucles | [JDoodle](PEGAR_JDOODLE_L3) |
-| 4 | Métodos y Scanner | [JDoodle](PEGAR_JDOODLE_L4) |
+| 4 | Métodos y Scanner | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 5 | Clases y encapsulación | [JDoodle](PEGAR_JDOODLE_L5) |
-| 6 | Arrays y cadenas | [JDoodle](PEGAR_JDOODLE_L6) |
+| 6 | Arrays y cadenas | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 7 | Tu reproductor de música | [JDoodle](PEGAR_JDOODLE_L7) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](PEGAR_FORM_CUESTIONARIO)
@@ -154,11 +154,10 @@ NRC 7747
 **Líder del equipo**: PEGAR_LIDER  
 **Integrantes del equipo**:
 
-- Higa Kohatsu, Alonso Enrique (U202416276)
-- Asmat Alminco, Martin Alejandro (U202416272)
+- Gallardo Morales, Carla Alejandra(U202414970)
 - Huaman Oscco, Aldo Jesus (U20231h067)
+- Miranda Cordova ,Jesus Angel Yvan(U202411261)
 - Ortiz Laura, Leyla Alisson (U202415088)
-- Tuesta Girón, Kiara Lucia (U20251i477)
+- 
 
 **Fecha de entrega**: PEGAR_FECHA
-`````
