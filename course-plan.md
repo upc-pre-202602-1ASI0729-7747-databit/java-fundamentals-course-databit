@@ -41,15 +41,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 3: Estructuras de control (10 minutos)
+### Lección 3: Estructuras de control (8 minutos)
 
 - **Descripción**: Haz que tu programa tome decisiones con `if` y `else`, y que repita tareas con bucles.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L3)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=ZVhtIoBr1F4)
 - **Conceptos clave**:
   - `if` y `else` eligen qué hacer según una condición.
   - `for` repite una tarea un número de veces.
   - `while` repite una tarea mientras se cumpla una condición.
-- **Práctica**: [Clic para programar](PEGAR_JDOODLE_L3) 👉 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👉 **¡No necesitas registrarte!**
 
 ---
 
