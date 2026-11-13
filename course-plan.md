@@ -28,16 +28,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 2: Variables, tipos de datos y operadores (10 minutos)
+### Lección 2: Variables, tipos de datos y operadores (8 minutos)
 
 - **Descripción**: Aprende a guardar datos en variables y a hacer operaciones con ellos.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L2)
+- **Enlace**: [Ver la lección](https://youtu.be/rqNQ92gu3Rs)
 - **Conceptos clave**:
   - Una variable guarda un dato con un nombre.
   - Los tipos más usados son `int`, `double`, `boolean` y `String`.
   - Los operadores `+`, `-`, `*` y `/` hacen cálculos.
   - El operador `%` devuelve el residuo de una división.
-- **Práctica**: [Clic para programar](PEGAR_JDOODLE_L2) 👉 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👉 **¡Inicio inmediato!**
 
 ---
 
