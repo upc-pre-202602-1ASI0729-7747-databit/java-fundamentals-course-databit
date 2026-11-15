@@ -3,7 +3,7 @@
 // Tu tarea es identificarlos y corregirlos.
 
 
-public class Lesson08_BestPractices {
+public class Main {
 
 
     public static void main(String[] args) {

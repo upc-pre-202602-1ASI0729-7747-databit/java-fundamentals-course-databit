@@ -2,7 +2,7 @@
 // Ejemplo completo — así debería verse el código corregido.
 
 
-public class Lesson08_BestPractices {
+public class Main {
 
 
     public static void main(String[] args) {
