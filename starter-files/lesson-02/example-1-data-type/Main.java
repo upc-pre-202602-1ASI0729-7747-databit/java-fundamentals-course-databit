@@ -1,4 +1,4 @@
-public class MyClass {
+public class Main {
     public static void main(String[] args) {
         // TODO: declara una variable int llamada edad con el valor 15
         // TODO: declara una variable double llamada altura con el valor 1.65

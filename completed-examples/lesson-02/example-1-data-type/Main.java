@@ -1,4 +1,4 @@
-public class MyClass {
+public class Main {
     public static void main(String[] args) {
         int edad = 15;
         double altura = 1.65;
