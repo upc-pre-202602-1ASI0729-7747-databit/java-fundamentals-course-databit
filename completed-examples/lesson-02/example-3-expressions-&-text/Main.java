@@ -1,4 +1,4 @@
-public class MyClass {
+public class Main {
     public static void main(String[] args) {
         int monedas = 3;
         int total = monedas * 10 + 5;

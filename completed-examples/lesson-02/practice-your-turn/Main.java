@@ -1,4 +1,4 @@
-public class MyClass {
+public class Main {
     public static void main(String[] args) {
         // 1. Tu nombre y tu edad
         String nombre = "Luna";
