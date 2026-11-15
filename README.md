@@ -94,7 +94,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 2: Variables, tipos de datos y operadores (8 minutos)
+### Lección 2: Variables, tipos de datos y operadores (7 minutos)
 
 - **Descripción**: Aprende a guardar datos en variables y a hacer operaciones con ellos.
 - **Enlace**: [Ver la lección](https://youtu.be/rqNQ92gu3Rs)
@@ -132,7 +132,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 5: Clases, objetos y encapsulación (10 minutos)
+### Lección 5: Clases y objetos (9 minutos)
 
 - **Descripción**: Entra a la Programación Orientada a Objetos creando tu primera clase `Reproductor` con atributos, constructor y métodos.
 - **Enlace**: [Ver la lección](https://youtu.be/K0JTfsVm-wU)
@@ -145,7 +145,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 6: Arrays y cadenas (5 minutos)
+### Lección 6: Encapsulación y estructura de datos simples (10 minutos)
 
 - **Descripción**: Guarda listas de datos en arrays y trabaja con textos, integrándolos con tus objetos.
 - **Enlace**: [Ver la lección](https://youtu.be/-sT_iQ4URYg)
