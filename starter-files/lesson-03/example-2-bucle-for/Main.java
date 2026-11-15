@@ -1,4 +1,4 @@
-public class MyClass {
+public class Main {
     public static void main(String[] args) {
         // TODO: escribe un for con tres partes:
         //       inicio: int i = 1
