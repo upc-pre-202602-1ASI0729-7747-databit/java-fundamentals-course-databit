@@ -76,7 +76,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari o Edge)  
 **Editor en línea**: [JDoodle](https://www.jdoodle.com/online-java-compiler), gratuito
 
-**📁 Repositorio de código fuente**: [java-fundamentals-course-stockia](https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-databit)
+**📁 Repositorio de código fuente**: [https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-databit](https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-databit)
 
 ---
 
@@ -187,7 +187,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Recursos Adicionales
 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-stockia)
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-databit)
 - **Todas las actividades prácticas**:
 
 | Lección | Actividad | Empezar a programar |
