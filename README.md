@@ -76,7 +76,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari o Edge)  
 **Editor en línea**: [JDoodle](https://www.jdoodle.com/online-java-compiler), gratuito
 
-**📁 Repositorio de código fuente**: [https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-stockia](https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-stockia)
+**📁 Repositorio de código fuente**: [https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-databit](https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-databit)
 
 ---
 
@@ -187,7 +187,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Recursos Adicionales
 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-stockia)
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/upc-pre-202602-1ASI0729-7747-databit/java-fundamentals-course-databit)
 - **Todas las actividades prácticas**:
 
 | Lección | Actividad | Empezar a programar |
@@ -219,10 +219,10 @@ NRC 7747
 **Líder del equipo**: Huaman Oscco, Aldo Jesus (U20231h067)  
 **Integrantes del equipo**:
 
-- Gallardo Morales, Carla Alejandra(U202414970)
+- Gallardo Morales, Carla Alejandra (U202414970)
 - Huaman Oscco, Aldo Jesus (U20231h067)
-- Miranda Cordova ,Jesus Angel Yvan(U202411261)
+- Miranda Cordova ,Jesus Angel Yvan (U202411261)
 - Ortiz Laura, Leyla Alisson (U202415088)
-- Toro Turpo, Ronal, (U20241E367)
+- Toro Turpo, Ronal (U20241E367)
 
 **Fecha de entrega**: 13/11/2026
